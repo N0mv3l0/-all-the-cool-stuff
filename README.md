@@ -30,3 +30,7 @@ https://dbc-f0761396-3c73.cloud.databricks.com/editor/queries/3059242037979664?o
 See link of dashboard.
 
 https://dbc-f0761396-3c73.cloud.databricks.com/dashboardsv3/01f15ce4127b1879a71e9de2b7718bef/published?o=7474658285210116
+
+
+6. See the link to the extra work I practiced on JOINS (INNER, LEFT, AND FULL OUTER).
+   https://dbc-f0761396-3c73.cloud.databricks.com/editor/queries/1144652987936425?o=7474658285210116 
