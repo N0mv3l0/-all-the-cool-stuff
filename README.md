@@ -34,3 +34,5 @@ https://dbc-f0761396-3c73.cloud.databricks.com/dashboardsv3/01f15ce4127b1879a71e
 
 6. See the link to the extra work I practiced on JOINS (INNER, LEFT, AND FULL OUTER).
    https://dbc-f0761396-3c73.cloud.databricks.com/editor/queries/1144652987936425?o=7474658285210116 
+
+7. Gantt chart for project planning. Netflix viewership report analysis. Created my first gantt chart on Canva. Usefull for case studies.
